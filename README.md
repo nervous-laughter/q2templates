@@ -1,2 +1,2 @@
 # q2templates
-Design template package for QIIME 2 Plugins
+Design template package for QIIME 2 Plugins :gerg:
