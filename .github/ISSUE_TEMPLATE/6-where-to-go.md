@@ -21,7 +21,7 @@ Sorted alphabetically by repo name.
 - The Developer Documentation
   https://github.com/qiime2/dev-docs/issues
 
-- A discourse plugin for handling queued/enqueued topics
+- A discourse plugin for handling queued/unqueued topics
   https://github.com/qiime2/discourse-unhandled-tagger/issues
 
 - The User Documentation

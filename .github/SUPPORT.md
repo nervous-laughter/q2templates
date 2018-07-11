@@ -30,43 +30,43 @@ Sorted alphabetically by repo name.
   | The Developer Documentation
 
 - [discourse-unhandled-tagger](https://github.com/qiime2/discourse-unhandled-tagger/issues)
-  | A discourse plugin for handling queued/enqueued topics
+  | A discourse plugin for handling queued/unqueued topics
 
-- The User Documentation
-  https://github.com/qiime2/docs/issues
+- [docs](https://github.com/qiime2/docs/issues)
+  | The User Documentation
 
-- Rendered QIIME 2 environment files for conda
-  https://github.com/qiime2/environment-files/issues
+- [environment-files](https://github.com/qiime2/environment-files/issues)
+  | Rendered QIIME 2 environment files for conda
 
-- Google Sheets Add-On for validating tabular data
-  https://github.com/qiime2/Keemei/issues
+- [Keemei](https://github.com/qiime2/Keemei/issues)
+  | Google Sheets Add-On for validating tabular data
 
-- A docker image for linux-based busywork workers
-  https://github.com/qiime2/linux-worker-docker/issues
+- [linux-worker-docker](https://github.com/qiime2/linux-worker-docker/issues)
+  | A docker image for linux-based busywork workers
 
-- Official project logos
-  https://github.com/qiime2/logos/issues
+- [logos](https://github.com/qiime2/logos/issues)
+  | Official project logos
 
-- The q2-alignment plugin
-  https://github.com/qiime2/q2-alignment/issues
+- [q2-alignment](https://github.com/qiime2/q2-alignment/issues)
+  | The q2-alignment plugin
 
-- The q2-composition plugin
-  https://github.com/qiime2/q2-composition/issues
+- [q2-composition](https://github.com/qiime2/q2-composition/issues)
+  | The q2-composition plugin
 
-- The q2-cutadapt plugin
-  https://github.com/qiime2/q2-cutadapt/issues
+- [q2-cutadapt](https://github.com/qiime2/q2-cutadapt/issues)
+  | The q2-cutadapt plugin
 
-- The q2-dada2 plugin
-  https://github.com/qiime2/q2-dada2/issues
+- [q2-dada2](https://github.com/qiime2/q2-dada2/issues)
+  | The q2-dada2 plugin
 
-- The q2-deblur plugin
-  https://github.com/qiime2/q2-deblur/issues
+- [q2-deblur](https://github.com/qiime2/q2-deblur/issues)
+  | The q2-deblur plugin
 
-- The q2-demux plugin
-  https://github.com/qiime2/q2-demux/issues
+- [q2-demux](https://github.com/qiime2/q2-demux/issues)
+  | The q2-demux plugin
 
-- The q2-diversity plugin
-  https://github.com/qiime2/q2-diversity/issues
+- [q2-diversity](https://github.com/qiime2/q2-diversity/issues)
+  | The q2-diversity plugin
 
 - The q2-emperor plugin
   https://github.com/qiime2/q2-emperor/issues
