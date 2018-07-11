@@ -24,9 +24,6 @@ Sorted alphabetically by repo name.
 - A discourse plugin for handling queued/enqueued topics
   https://github.com/qiime2/discourse-unhandled-tagger/issues
 
-- The rendered user docs (github pages hosting)
-  https://github.com/qiime2/docs.qiime2.org/issues
-
 - The User Documentation
   https://github.com/qiime2/docs/issues
 
@@ -131,9 +128,6 @@ Sorted alphabetically by repo name.
 
 - Centralized templates for repo assets
   https://github.com/qiime2/template-repo/issues
-
-- The rendered site for view.qiime2.org (github pages hosting)
-  https://github.com/qiime2/view.qiime2.org/issues
 
 - Scripts for building QIIME 2 VMs
   https://github.com/qiime2/vm-playbooks/issues
