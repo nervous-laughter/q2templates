@@ -14,8 +14,8 @@ visit us at the [QIIME 2 Forum](https://forum.qiime2.org/c/dev-discussion).
 
 Sorted alphabetically by repo name.
 
-- The CI automation engine that builds and distributes QIIME 2 |
-  [busywork](https://github.com/qiime2/busywork/issues)
+- [busywork](https://github.com/qiime2/busywork/issues) |
+  The CI automation engine that builds and distributes QIIME 2
 
 - A Concourse resource for working with conda
   https://github.com/qiime2/conda-channel-resource/issues
