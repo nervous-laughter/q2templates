@@ -14,23 +14,23 @@ visit us at the [QIIME 2 Forum](https://forum.qiime2.org/c/dev-discussion).
 
 Sorted alphabetically by repo name.
 
-- [busywork](https://github.com/qiime2/busywork/issues) |
-  The CI automation engine that builds and distributes QIIME 2
+- [busywork](https://github.com/qiime2/busywork/issues)
+  | The CI automation engine that builds and distributes QIIME 2
 
-- A Concourse resource for working with conda
-  https://github.com/qiime2/conda-channel-resource/issues
+- [conda-channel-resource](https://github.com/qiime2/conda-channel-resource/issues)
+  | A Concourse resource for working with conda
 
-- Old conda recipes (repo is mostly unused now)
-  https://github.com/qiime2/conda-recipes/issues
+- [conda-recipes](https://github.com/qiime2/conda-recipes/issues)
+  | Old conda recipes (repo is mostly unused now)
 
-- Web app for vanity URLs for QIIME 2 data assets
-  https://github.com/qiime2/data.qiime2.org/issues
+- [data.qiime2.org](https://github.com/qiime2/data.qiime2.org/issues)
+  | Web app for vanity URLs for QIIME 2 data assets
 
-- The Developer Documentation
-  https://github.com/qiime2/dev-docs/issues
+- [dev-docs](https://github.com/qiime2/dev-docs/issues)
+  | The Developer Documentation
 
-- A discourse plugin for handling queued/enqueued topics
-  https://github.com/qiime2/discourse-unhandled-tagger/issues
+- [discourse-unhandled-tagger](https://github.com/qiime2/discourse-unhandled-tagger/issues)
+  | A discourse plugin for handling queued/enqueued topics
 
 - The User Documentation
   https://github.com/qiime2/docs/issues
