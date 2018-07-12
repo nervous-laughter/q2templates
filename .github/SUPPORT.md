@@ -10,6 +10,10 @@ Check out the [Developer Docs](https://dev.qiime2.org) - there are many
 tutorials, walkthroughs, and guides available. If you still need help, please
 visit us at the [QIIME 2 Forum](https://forum.qiime2.org/c/dev-discussion).
 
+# General Bug/Issue Triage Discussion
+
+![rubric](./rubric.png?raw=true)
+
 # Projects/Repositories in the QIIME 2 GitHub Organization
 
 Sorted alphabetically by repo name.
